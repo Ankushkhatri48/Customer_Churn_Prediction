@@ -5,3 +5,4 @@ shap
 streamlit
 groq
 matplotlib
+seaborn
