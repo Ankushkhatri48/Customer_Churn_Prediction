@@ -2,7 +2,6 @@ import streamlit as st
 import pandas as pd
 import numpy as np
 import matplotlib.pyplot as plt
-import seaborn as sns
 from model import load_model_assets
 from explain import get_global_shap_plot, get_local_shap_explanation
 from llm import generate_plain_english_explanation
